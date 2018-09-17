@@ -1,0 +1,26 @@
+_repo: Haailta-Huvinaytelma-yhdessa-naytoksessa_52241
+_version: 0.0.1
+alternative_title: En bryllupsaften. Finnish
+creator:
+  author:
+    agent_name: Nansen, Peter
+    alias: Nansen, P. (Peter)
+    birthdate: 1861
+    deathdate: 1918
+    gutenberg_agent_id: '39510'
+    url: http://www.gutenberg.org/2009/agents/39510
+description: ''
+gutenberg_issued: '2016-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52241'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Danish drama -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: 'Hääilta: Huvinäytelmä yhdessä näytöksessä'
+url: http://www.gutenberg.org/ebooks/52241
